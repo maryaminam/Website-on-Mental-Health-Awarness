@@ -1,0 +1,203 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.logo img{
+    display: block;
+    position: absolute;
+    width: 132px;
+    margin: 12px auto;
+    margin-left: 45%;
+}
+.content h1{
+    margin-top: 140px;
+    color: rgb(231, 55, 152);
+    font-size: 600%;
+    font-style: italic;
+    background-color: lavender;
+    text-align: center;
+}
+.overview p{
+    margin-top: 100px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    font-size: 140%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.learnmore {
+    margin-top: 100px;
+    background-color:  lavender;
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 14px 25px;
+    border-radius: 8px;
+    margin-left: 43%;
+}
+.learnmore a{
+    color:  rgb(231, 55, 152);
+    text-decoration: none;
+}
+.causes {
+    margin-top: 40px;
+    background-color: rgb(231, 55, 152);
+    padding: 10px;
+    font-size: 30px;
+    display: inline-block;
+    padding: 14px 25px;
+    border-radius: 8px;
+}
+.causes a{
+    color: aliceblue;
+    text-decoration: none; 
+}
+.prevention {
+    margin-top: 40px;
+    background-color: rgb(231, 55, 152);
+    padding: 10px;
+    font-size: 30px;
+    display: inline-block;
+    padding: 14px 25px;
+    border-radius: 8px;
+}
+.prevention a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.head1 h1 {
+    margin-top: 100px;
+    color:  rgb(231, 55, 152);
+    margin-left: 10%;
+    font-size: 400%;
+    font-style: italic;
+}
+.typep p{
+    color: dimgray;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+    margin-right: 5%;
+}
+.image1{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.symptoms {
+    margin-top: 100px;
+    color:  rgb(231, 55, 152);
+    margin-left: 10%;
+    font-size: 200%;
+    font-style: italic;
+}
+.symptomsp p{
+    color: dimgray;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+    margin-right: 5%;
+}
+
+} 
+.casuses h1 {
+    margin-top: 100px;
+    color:  rgb(231, 55, 152);
+    margin-left: 10%;
+    font-size: 200%;
+    font-style: italic;
+} 
+.casusesp {
+    color: dimgray;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+}
+.image2 {
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.riskfactors {
+    margin-top: 100px;
+    color:  rgb(231, 55, 152);
+    margin-left: 10%;
+    font-size: 200%;
+    font-style: italic;
+} 
+.riskfactorsp {
+    color: dimgray;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+} 
+.preventionl {
+    margin-top: 100px;
+    background-color:  rgb(231, 55, 152);
+    padding: 10px;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 14px 25px;
+    border-radius: 8px;
+    margin-left: 40%;
+    margin-bottom: 10%;
+}
+.preventionl a{
+    color: aliceblue;
+    text-decoration: none;
+} 
+.complications {
+    margin-top: 100px;
+    color:  rgb(231, 55, 152);
+    margin-left: 10%;
+    font-size: 200%;
+    font-style: italic;
+}
+.complicationsp {
+    color: dimgray;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+.image3 {
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.preventionpp {
+    margin-top: 100px;
+    color:  rgb(231, 55, 152);
+    margin-left: 10%;
+    font-size: 200%;
+    font-style: italic;
+}
+.preventionp {
+    color: dimgray;
+    margin-left: 5%;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+    margin-bottom: 10%;
+}
+.links {
+    text-align: right;
+    margin-right: 10%;
+    font-size: larger;
+    margin-top: 47px;
+}
+.links a {
+    color: rgb(231, 55, 152) ;
+    text-decoration: none;
+    
+
+}
+.links a:hover {
+    text-decoration: underline;
+}
+.background {
+    background-image: url("web(1).jfif");
+}
